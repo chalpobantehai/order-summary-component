@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [carltonmpofu.frontendmentor.io](https://www.frontendmentor.io/solutions/responsive-order-summary-component-oTsTXxpq2)
+- Live Site URL: [carltonmpofu.github.io](https://carltonmpofu.github.io/order-summary-component/)
 
 ## My process
 
